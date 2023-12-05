@@ -1,0 +1,38 @@
+body{
+    padding:50px 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0zNTEtYWRqLWJhY2tncm91bmQtMDEuanBn.jpg");
+}
+h1{
+    text-align: center;
+}
+h1{
+    background-color: rgb(50, 14, 252);
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    
+}
+#container{
+    text-align: center;
+    background-color: rgb(59, 172, 189);
+    padding: 50px;
+}
+.input-div{
+    display: inline-block;
+}
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+label{
+    font-size: 22px;
+}
+pre{
+    font-size: 20px;
+    margin: 50px 0px;
+}
